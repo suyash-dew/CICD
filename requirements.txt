@@ -13,8 +13,6 @@ Jinja2==2.10
 jsonschema==3.0.1
 jupyter==1.0.0
 jupyter-client==5.2.4
-jupyter-console==6.0.0
-jupyter-core==4.4.0
 kiwisolver==1.0.1
 MarkupSafe==1.1.1
 matplotlib==2.2.2
