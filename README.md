@@ -1,6 +1,14 @@
-# **C**ontinuous **I**ntegration **C**ontinuous **D**elivery Pipeline
+ **C**ontinuous **I**ntegration **C**ontinuous **D**elivery Pipeline
 
 [![Build Status](https://travis-ci.org/suyash-dew/CICD.svg?branch=master)](https://travis-ci.org/suyash-dew/CICD)
+
+This pipeline was built using :-
+
+* Travis CI (https://travis-ci.org)
+* Docker (https://hub.docker.com/)
+* Application URL: https://stark-wave-13457.herokuapp.com/
+
+
 
 
 
