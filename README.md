@@ -9,7 +9,7 @@ This is a simple pipeline generating psuedo-random texts and it is built using :
 * Docker (https://hub.docker.com/)
 * Application URL: https://stark-wave-13457.herokuapp.com/
 
-*Keep refreshing the url to see new things!*
+*Keep refreshing the url to see new texts!*
 
 
 
