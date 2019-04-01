@@ -1,6 +1,6 @@
  **C**ontinuous **I**ntegration **C**ontinuous **D**elivery Pipeline
 
-[![Build Status](https://travis-ci.org/suyash-dew/CICD.svg?branch=master)](https://travis-ci.org/suyash-dew/CICD)
+[![Build Status](https://travis-ci.org/suyash-dew/CICD.svg?branch=master)](https://travis-ci.org/suyash-dew/CICD)   [![BCH compliance](https://bettercodehub.com/edge/badge/suyash-dew/CICD?branch=master)](https://bettercodehub.com/)
 
 This is a simple pipeline generating psuedo-random texts and it is built using :-
 
