@@ -6,6 +6,7 @@ This is a simple pipeline generating psuedo-random texts and it is built using :
 
 * Python Flask 
 * [Travis CI](https://travis-ci.org)
+* [Better Code Hub](https://bettercodehub.com)
 * [Docker](https://hub.docker.com/)
 * [Heroku](https://heroku.com/)
 * Application URL: https://stark-wave-13457.herokuapp.com/
